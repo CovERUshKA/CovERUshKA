@@ -6,8 +6,6 @@
 
 ![C++](https://img.shields.io/badge/C++-151515?style=flat-square&logo=c%2B%2B)
 ![Lua](https://img.shields.io/badge/Lua-151515?style=flat-square&logo=lua)
-![Java](https://img.shields.io/badge/Java-151515?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-151515?style=flat-square&logo=git)
 
 ### Socials:
