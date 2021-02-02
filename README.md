@@ -14,7 +14,8 @@
 
 ### Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fokincode)
+Telegram: @fokincode <br/>
+Discord: CovER#7465
 
 <!--
 **CovERUshKA/CovERUshKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
