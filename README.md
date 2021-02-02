@@ -5,7 +5,6 @@
 ### Scills:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2C2D72?style=for-the-badge&logo=git&logoColor=white)
 
 ### OS:
