@@ -4,13 +4,18 @@
 
 ### Scills:
 
-![C++](https://img.shields.io/badge/C++-151515?style=flat-square&logo=c%2B%2B)
-![Lua](https://img.shields.io/badge/Lua-151515?style=flat-square&logo=lua)
-![Git](https://img.shields.io/badge/Git-151515?style=flat-square&logo=git)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2C2D72?style=for-the-badge&logo=git&logoColor=white)
+
+### OS:
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Socials:
 
-[![Telegram](https://img.shields.io/badge/@fokincode-151515?style=flat-square&logo=telegram)](https://t.me/fokincode)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fokincode)
 
 <!--
 **CovERUshKA/CovERUshKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
