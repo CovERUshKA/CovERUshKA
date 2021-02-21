@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=coverushka"/>
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=coverushka&theme=dark&show_icons=true)](https://github.com/coverushka?tab=repositories)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coverushka&layout=compact&theme=dark)](https://github.com/coverushka?tab=repositories)
 
